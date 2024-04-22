@@ -12,7 +12,3 @@ Raw & cleaned data
 Raw Results (Statistics)
 
 Code for statistical analysis
-
-Presentation
-
-Abstract
