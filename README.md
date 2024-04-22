@@ -5,9 +5,11 @@ The repository contains materials of the project in LING 461: Experimental Seman
 
 The folder contains:
 
-Stimuli
+Stimuli & fillers
 
 Raw & cleaned data
+
+Raw Data Statistics
 
 Code for statistical analysis
 
