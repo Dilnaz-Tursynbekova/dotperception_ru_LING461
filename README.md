@@ -9,7 +9,7 @@ Stimuli & fillers
 
 Raw & cleaned data
 
-Raw Data Statistics
+Raw Results (Statistics)
 
 Code for statistical analysis
 
