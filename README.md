@@ -9,8 +9,6 @@ Stimuli
 
 Raw & cleaned data
 
-Descriptive statistics
-
 Code for statistical analysis
 
 Presentation
